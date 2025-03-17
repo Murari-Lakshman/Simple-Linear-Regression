@@ -1,6 +1,6 @@
 # Simple-Linear-Regression
 A Simple linear regression model to predict the salary using the experience of an individual.
-This is model that is created only using numpy and matplotlib (with the exception of sklearn to determine how accurate our model is using r2 score). First we use a very simple dataset downloaded from Kaggle, The link to the dataset is right here(https://www.kaggle.com/datasets/abhishek14398/salary-dataset-simple-linear-regression). The data has ID, Years of experience and Their respective salary. Dataset has 30 examples. Our model is an python notebook called Sal_dat_lin_reg. This holds holds all the code necessary to implement the model.
+This is model that is created only using numpy and matplotlib (with the exception of sklearn to determine how accurate our model is using r2 score). First we use a very simple dataset downloaded from Kaggle, The link to the dataset is right here (https://www.kaggle.com/datasets/abhishek14398/salary-dataset-simple-linear-regression). The data has ID, Years of experience and Their respective salary. Dataset has 30 examples. Our model is an python notebook called Sal_dat_lin_reg. This holds holds all the code necessary to implement the model.
 A visualized description of how the data looks like:
 
 ![output2](https://github.com/user-attachments/assets/3f268688-0c61-425c-ad7e-15f8dc368368)
